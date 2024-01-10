@@ -26,7 +26,6 @@ void convert(TreeNode* current, int parent, unordered_map<int, unordered_set<int
 
 
 
-
 2. Conduct a Breath First Search (BFS) to find the maximum distance between the start and other vertices.
 
 /**
